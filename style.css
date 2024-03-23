@@ -218,6 +218,9 @@ main {
     bottom: -15px;
     left: -10px;
 }
+.form{
+    position:relative;
+}
 
 .formulario-conhecimento {
     height: 200px;
