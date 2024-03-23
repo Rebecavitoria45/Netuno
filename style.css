@@ -138,7 +138,7 @@ main {
 
 
 .input-nome {
-    background-image: url("/Assets_Netuno/icones/user.png");
+    background-image: url("Assets_Netuno/icones/user.png");
     background-repeat: no-repeat;
     background-position: calc(100% - 98%) center;
     background-size: 20px 20px;
@@ -160,7 +160,7 @@ main {
 }
 
 .input-email {
-    background-image: url("/Assets_Netuno/icones/mail.png");
+    background-image: url("Assets_Netuno/icones/mail.png");
     background-repeat: no-repeat;
     background-position: calc(100% - 98%) center;
     background-size: 20px 20px;
@@ -182,7 +182,7 @@ main {
 }
 
 .select-estado {
-    background-image: url("/Assets_Netuno/icones/state.png");
+    background-image: url("Assets_Netuno/icones/state.png");
     background-repeat: no-repeat;
     background-position: calc(100% - 98%) center;
     background-size: 20px 20px;
