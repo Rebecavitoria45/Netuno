@@ -101,10 +101,10 @@ main {
     left: 58%;
     background-color: var(--cor-branca);
     width: 28%;
-    border-radius: 15px;
+    border-radius: 12px;
     height: 110%;
-    box-shadow: 2px 2px 5px var(--cor-azul);
-    border: solid 2px var(--cor-azul-light);
+    box-shadow: inset 0px 0px 0px 1px #58C5E6;
+ 
 }
 
 .titulo-formulario {
@@ -191,7 +191,7 @@ main {
     border: 1px solid var(--cor-cinza);
     background-color: var(--cor-cinza-light);
     border-radius: 5px;
-    color: var(--cor-azul);
+    color: grey;
     margin-bottom: 25px;
 }
 
@@ -203,6 +203,22 @@ main {
     padding-left: 47px;
 }
 
+.vetor-branco {
+    position: absolute;
+    right: -213px;
+    bottom: 60px;
+}
+.image {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+.image2 {
+    position: absolute;
+    bottom: -15px;
+    left: -10px;
+}
+
 .formulario-conhecimento {
     height: 200px;
     width: 475px auto;
@@ -210,6 +226,7 @@ main {
     color: var(--cor-branca);
     padding-bottom: 25px;
     border-left: solid 4px var(--cor-azul);
+    box-shadow: 0px 0px 3px 1px #615e5e6e;
 }
 
 .paragrafo-conhecimento {
