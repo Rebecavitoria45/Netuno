@@ -444,15 +444,16 @@ p#paragrafo-obrigatorio {
 }
 
 .img-container {
-    width: 100%;
-    left: 100%;
+    width: 30%;
+    position: relative; 
+    left: 18%;
    }
 
 .texto-problema-principal {
     width: 20%;
     position: relative;
     bottom: 650px;
-    left: 50%;
+    left: 57%;
 }
 
 .titulo-problema {
@@ -492,7 +493,7 @@ p#paragrafo-obrigatorio {
     justify-content: center auto;
     position: relative;
     bottom: 575px;
-    left: 10%;
+    left: 13%;
     
 }
 
