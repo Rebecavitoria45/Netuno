@@ -812,7 +812,7 @@ h1.titulo-jornada {
     font-weight: 800;
 } 
 
-/*está certo*/
+
 @media (max-width: 500px) {
     * {
         margin: 0;
@@ -865,9 +865,6 @@ h1.titulo-jornada {
     .open {
         display: block;
     }
-
-    /*termina aqui*/
-
 
     #cabecalho a {
         font-size: 16px;
@@ -1268,7 +1265,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 600px) and (min-width: 501px){
     html, body {
         width: 100%;
@@ -1320,7 +1317,6 @@ h1.titulo-jornada {
         display: block;
     }
 
-    /*termina aqui*/
 
 
     #cabecalho a {
@@ -1681,13 +1677,13 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 700px) and (min-width: 601px){
     html, body {
         width: 100%;
     }
 
-     /*começa aqui*/
+    
      .nav-item {
         display: none;
     }
@@ -2086,7 +2082,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 800px) and (min-width: 701px){
     html, body {
         width: 100%;
@@ -2472,12 +2468,12 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 899px) and (min-width: 801px){
     html, body {
         width: 100%;
     }
-    /*começa aqui*/
+   
     .nav-item {
         display: none;
     }
@@ -2524,7 +2520,6 @@ h1.titulo-jornada {
         display: block;
     }
 
-    /*termina aqui*/
     #cabecalho img {
         width: 150px;
         position: absolute;
@@ -2863,7 +2858,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 999px) and (min-width: 901px) {
     html, body {
         width: 100%;
@@ -3166,7 +3161,6 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
 @media (max-width: 1100px) and (min-width: 1001px) {
     html, body {
         width: 100%;
@@ -3469,7 +3463,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 1200px) and (min-width: 1101px) {
     html, body {
         width: 100%;
@@ -3780,7 +3774,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 1300px) and (min-width: 1201px) {
     html, body {
         width: 100%;
@@ -4105,7 +4099,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 1400px) and (min-width: 1301px) {
     html, body {
         width: 100%;
@@ -4441,7 +4435,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 1500px) and (min-width: 1401px) {
     html, body {
         width: 100%;
@@ -4784,7 +4778,7 @@ h1.titulo-jornada {
     }
 }
 
-/*está certo*/
+
 @media (max-width: 1600px) and (min-width: 1501px) {
     html, body {
         width: 100%;
